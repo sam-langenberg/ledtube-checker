@@ -1,6 +1,6 @@
-console.log("🚀 HomePage loaded!");
-
 'use client';
+
+console.log("🚀 HomePage loaded!");
 
 import { useState } from 'react';
 
